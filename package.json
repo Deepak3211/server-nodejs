@@ -1,0 +1,16 @@
+{
+  "name": "testbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "start": "nodemon server2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
